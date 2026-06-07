@@ -8,25 +8,23 @@ tags:
 categories:
   - drinks
 ---
-## Ingredients
-
-### Kopi Mixture
+## Kopi Mixture
 - 200 ml kopi base
 - 200 ml milk mixture
 - 20 ml sugar syrup
 
-### Teh Mixture
+## Teh Mixture
 - 200 ml teh base
 - 100 ml milk mixture
 - 20 ml sugar syrup
 
-### Cham Mixture
+## Cham Mixture
 - 225 ml kopi base
 - 75 ml teh base
 - 300 ml milk mixture
 - 30 ml sugar syrup
 
-### Milk Mixture
+## Milk Mixture
 - 320 g carnation milk
 - 80 g ideal milk
 - 600 g condensed milk
