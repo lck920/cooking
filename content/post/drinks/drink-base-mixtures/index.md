@@ -8,6 +8,8 @@ tags:
 categories:
   - drinks
 ---
+## Ingredients
+
 ### Kopi Mixture
 - 200 ml kopi base
 - 200 ml milk mixture

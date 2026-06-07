@@ -9,7 +9,7 @@ categories:
   - chicken
 ---
 
-Ingredients
+## Ingredients
 - 400 g chicken breast, sliced
 - 2 garlic cloves, minced
 - 1/2 tsp sugar
