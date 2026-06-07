@@ -8,7 +8,7 @@ tags:
 categories:
   - drinks
 ---
-**Hot Version**
+## Hot Version
 Ingredients:
 - 100 ml teh base
 - 100 ml milk mixture
@@ -18,8 +18,7 @@ Steps:
 2. Steam the milk mixture to 65°C.
 3. Pour the milk mixture into the cup.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 100 ml teh base
 - 50 ml milk mixture

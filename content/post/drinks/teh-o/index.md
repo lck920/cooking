@@ -8,8 +8,7 @@ tags:
 categories:
   - drinks
 ---
-
-**Hot Version**
+## Hot Version
 Ingredients:
 - 40-60 ml teh base
 - 20 ml sugar syrup
@@ -20,8 +19,7 @@ Steps:
 2. Pour hot water until the cup is full.
 3. Stir well.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 60 ml teh base
 - 120 ml water

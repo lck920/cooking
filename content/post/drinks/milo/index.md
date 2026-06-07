@@ -8,7 +8,7 @@ tags:
 categories:
   - drinks
 ---
-**Hot Version**
+## Hot Version
 Ingredients:
 - 40 g Milo powder
 - 20 g condensed milk
@@ -19,8 +19,7 @@ Steps:
 2. Pour hot water until the cup is full.
 3. Stir until smooth.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 50 g Milo powder
 - 25 g condensed milk

@@ -8,8 +8,7 @@ tags:
 categories:
   - drinks
 ---
-
-**Hot Version**
+## Hot Version
 Ingredients:
 - 100 ml teh base
 - 60 ml carnation milk
@@ -21,8 +20,7 @@ Steps:
 2. Steam the mixture to 65°C.
 3. Create a thin layer of foam.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 120 ml teh base
 - 60 ml carnation milk

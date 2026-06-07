@@ -8,7 +8,7 @@ tags:
 categories:
   - drinks
 ---
-**Hot Version**
+## Hot Version
 Ingredients:
 - 40 ml kopi base
 - 20 ml teh base
@@ -21,8 +21,7 @@ Steps:
 2. Steam the mixture to 65°C.
 3. Create a thin layer of foam.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 50 ml kopi base
 - 30 ml teh base

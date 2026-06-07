@@ -8,8 +8,7 @@ tags:
 categories:
   - drinks
 ---
-
-**Hot Version**
+## Hot Version
 Ingredients:
 - 40 ml teh base
 - 10 ml lemon juice
@@ -23,8 +22,7 @@ Steps:
 3. Stir well.
 4. Garnish with lemon slice.
 5. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 60 ml teh base
 - 20 ml lemon juice

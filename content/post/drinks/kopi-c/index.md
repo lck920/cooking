@@ -19,7 +19,7 @@ Steps:
 2. Steam the mixture to 65°C.
 3. Create a thin layer of foam.
 4. Serve hot.
-**Cold Version**
+## Cold Version
 Ingredients:
 - 80 ml kopi base
 - 90 ml carnation milk

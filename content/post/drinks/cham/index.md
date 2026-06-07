@@ -8,8 +8,7 @@ tags:
 categories:
   - drinks
 ---
-
-**Hot Version**
+## Hot Version
 Ingredients:
 - 75 ml kopi base
 - 25 ml teh base
@@ -20,8 +19,7 @@ Steps:
 2. Steam the milk mixture to 65°C.
 3. Pour the steamed milk mixture into the cup.
 4. Serve hot.
-
-**Cold Version**
+## Cold Version
 Ingredients:
 - 150 ml Cham mixture
 
