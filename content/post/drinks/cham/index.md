@@ -10,22 +10,22 @@ categories:
 ---
 
 **Hot Version**
-## Ingredients
+Ingredients:
 - 75 ml kopi base
 - 25 ml teh base
 - 125 ml milk mixture
 
-## Steps
+Steps:
 1. Add kopi base and teh base into a cup.
 2. Steam the milk mixture to 65°C.
 3. Pour the steamed milk mixture into the cup.
 4. Serve hot.
 
 **Cold Version**
-## Ingredients
+Ingredients:
 - 150 ml Cham mixture
 
-## Steps
+Steps:
 1. Steam the Hainam mixture to 40°C.
 2. Create about 1 cm thick foam.
 3. Pour into a glass with ice.

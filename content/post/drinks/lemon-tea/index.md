@@ -10,14 +10,14 @@ categories:
 ---
 
 **Hot Version**
-## Ingredients
+Ingredients:
 - 40 ml teh base
 - 10 ml lemon juice
 - 20 ml sugar syrup
 - Hot water, to fill the cup
 - Lemon slice, for garnish
 
-## Steps
+Steps:
 1. Add teh base, lemon juice, and sugar syrup into a cup.
 2. Pour hot water until the cup is full.
 3. Stir well.
@@ -25,14 +25,14 @@ categories:
 5. Serve hot.
 
 **Cold Version**
-## Ingredients
+Ingredients:
 - 60 ml teh base
 - 20 ml lemon juice
 - 30 ml sugar syrup
 - 100 ml water
 - Lemon slice, for garnish
 
-## Steps
+Steps:
 1. Add teh base, lemon juice, sugar syrup, and water into a glass.
 2. Stir well.
 3. Add ice.

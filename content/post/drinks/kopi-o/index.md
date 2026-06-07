@@ -9,23 +9,23 @@ categories:
   - drinks
 ---
 **Hot Version**
-## Ingredients
+Ingredients:
 - 150 ml kopi base
 - 10 ml sugar syrup
 - Hot water, to fill the cup
 
-## Steps
+Steps:
 1. Add kopi base and sugar syrup into a cup.
 2. Pour hot water until the cup is full.
 3. Stir well.
 4. Serve hot.
 
 **Cold Version**
-## Ingredients
+Ingredients:
 - 150 ml kopi base
 - 10 ml sugar syrup
 
-## Steps
+Steps:
 1. Add kopi base and sugar syrup into a glass.
 2. Stir well.
 3. Add ice.

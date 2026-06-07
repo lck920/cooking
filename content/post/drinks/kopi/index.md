@@ -8,21 +8,21 @@ categories:
   - drinks
 ---
 **Hot Version**
-## Ingredients
+Ingredients:
 - 100 ml kopi base
 - 125 ml milk mixture
 
-## Steps
+Steps:
 1. Add kopi base into a cup.
 2. Steam the milk mixture to 65°C.
 3. Pour the milk mixture into the cup.
 4. Serve hot.
 
 **Cold Version**
-## Ingredients
+Ingredients:
 - 150 ml kopi mixture
 
-## Steps
+Steps:
 1. Steam the kopi mixture to 40°C.
 2. Create about 1 cm thick foam.
 3. Pour into a glass with ice.

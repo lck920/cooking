@@ -9,11 +9,11 @@ categories:
   - drinks
 ---
 
-## Ingredients
+Ingredients:
 - 40 ml Ribena syrup
 - 140 ml water
 
-## Steps
+Steps:
 1. Add Ribena syrup into a glass.
 2. Add water and stir well.
 3. Add ice.
