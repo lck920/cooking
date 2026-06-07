@@ -9,13 +9,13 @@ categories:
   - drinks
 ---
 
-Ingredients:
+## Ingredients
 - 40 ml Ribena syrup
 - 40 ml lychee juice
 - 100 ml water
 - 3 whole lychees
 
-Steps:
+## Steps
 1. Add Ribena syrup, lychee juice, and water into a glass.
 2. Stir well.
 3. Add ice.

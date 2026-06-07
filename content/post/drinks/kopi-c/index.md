@@ -7,7 +7,9 @@ tags:
 
 categories:
   - drinks
----**Hot Version**
+---
+
+## Hot Version
 Ingredients:
 - 60 ml kopi base
 - 90 ml carnation milk
