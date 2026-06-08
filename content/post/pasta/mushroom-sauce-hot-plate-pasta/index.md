@@ -12,19 +12,19 @@ categories:
 
 ## Ingredients
 
-* 1 bowl fusilli pasta
-* 1 tbsp minced garlic
-* 6 mushrooms, sliced
-* 1/4 white onion, minced
-* 1/2 tbsp butter
-* 1 tbsp tomato sauce
-* 1 egg
-* 1 tbsp potato starch
-* 2 tbsp water
-* 2 tbsp soy sauce
-* Salt
-* Black pepper
-* Cooking oil
+- 1 bowl fusilli pasta
+- 1 tbsp minced garlic
+- 6 mushrooms, sliced
+- 1/4 white onion, minced
+- 1/2 tbsp butter
+- 1 tbsp tomato sauce
+- 1 egg
+- 1 tbsp potato starch
+- 2 tbsp water
+- 2 tbsp soy sauce
+- Salt
+- Black pepper
+- Cooking oil
 
 ## Steps
 
@@ -54,7 +54,7 @@ categories:
 
 ## Tips
 
-* Add the potato starch slowly so the sauce does not become too thick.
-* Use pasta water instead of normal water for a smoother sauce.
-* Cook the egg first so the pan oil gets extra flavour.
-* Add more black pepper if you want a stronger taste.
+- Add the potato starch slowly so the sauce does not become too thick.
+- Use pasta water instead of normal water for a smoother sauce.
+- Cook the egg first so the pan oil gets extra flavour.
+- Add more black pepper if you want a stronger taste.
