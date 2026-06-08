@@ -27,25 +27,15 @@ categories:
 ## Steps
 
 1. Slice the white onion.
-
 2. Heat oil in a pan over low heat.
-
 3. Sauté the onion until it turns brown and caramelised.
-
 4. Add minced garlic and mix well.
-
 5. Add soy sauce and water, then let it simmer.
-
 6. Add black pepper and white pepper.
-
 7. Taste the sauce and add more soy sauce if you want a stronger flavour.
-
 8. Coat the cold butter with flour, then add it into the sauce to thicken it.
-
 9. Beat 3 eggs in a bowl and add salt.
-
 10. Cook the beaten eggs into soft scrambled eggs.
-
 11. Serve the scrambled eggs and pour the black pepper sauce on top.
 
 ## Tips

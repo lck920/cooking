@@ -30,43 +30,24 @@ categories:
 ## Steps
 
 1. Take the steak out from the fridge 20–30 minutes before cooking.
-
 2. Pat the steak dry with kitchen paper.
-
 3. Season both sides with salt and black pepper.
-
 4. Slice the cherry tomatoes in half.
-
 5. Heat oil in a pan over high heat.
-
 6. Add the steak and sear until the bottom changes colour and forms a crust.
-
 7. Flip the steak and cook until your desired doneness.
-
 8. Remove the steak and let it rest.
-
 9. Serve white rice in a bowl, then top with mixed lettuce and cherry tomatoes.
-
 10. After the steak has rested, heat the pan again with slightly more olive oil.
-
 11. Put the steak back into the pan.
-
 12. Add garlic cloves and butter.
-
 13. Baste the steak by spooning the melted butter over it.
-
 14. Remove the steak and let it rest again. Set the garlic cloves aside.
-
 15. Remove excess oil from the pan.
-
 16. Add mirin, soy sauce, and rice wine into the pan.
-
 17. Add the garlic cloves back in and stir until the sauce is slightly reduced.
-
 18. Slice the steak into bite-sized pieces.
-
 19. Place the steak on top of the rice bowl.
-
 20. Top with sauce, garlic, and extra butter if desired.
 
 ## Steak Resting Guide

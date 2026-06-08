@@ -29,27 +29,16 @@ categories:
 ## Steps
 
 1. Cook the fusilli pasta, then drain and set aside.
-
 2. Dice the onion and slice the mushrooms.
-
 3. Heat oil in a pan and cook a sunny-side-up egg.
-
 4. Remove the egg and set aside.
-
 5. In the same pan, sauté onion, mushrooms, and garlic until soft.
-
 6. Add a little salt and stir well.
-
 7. Add tomato sauce and butter.
-
 8. Add soy sauce and water, then mix evenly.
-
 9. Add black pepper.
-
 10. Add potato starch and stir until the sauce thickens.
-
 11. Serve the sauce with the fusilli pasta.
-
 12. Top with the sunny-side-up egg and serve.
 
 ## Tips
