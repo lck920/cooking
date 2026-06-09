@@ -58,6 +58,8 @@ categories:
 | Standard thick cut, around 2.5 cm | 5–10 minutes |
 | Extra thick cut, around 4 cm or above | 10–15 minutes |
 
+- Lazy method, rest it for as long as you cooked it.
+
 ## Tips
 
 - After resting the steak, gently press it with your finger to check the doneness.
