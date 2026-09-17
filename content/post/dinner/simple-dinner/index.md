@@ -12,7 +12,7 @@ categories:
 ---
 
 ## Ingredients
-- 2 chicken thighs and drumsticks
+- 4 chicken thighs and drumsticks
 - 1/2 onion, diced
 - 2 potatoes
 - 1 carrot, peeled
@@ -28,7 +28,7 @@ categories:
 ## Steps
 ### Preps
 1. Cook the rice in a rice cooker.
-2. Debone the chicken, leaving the drumsticks for the soup and separating the thighs from the bones.
+2. Debone 4 chicken thighs and 2 drumsticks, leave the uncut drumsticks for the soup and cut the rest of the drumsticks into small pieces.
 3. Roll-cut the carrot.
 4. Cut the potatoes into smaller pieces.
 5. Dice half of the onion into smaller pieces.
